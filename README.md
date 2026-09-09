@@ -12,18 +12,28 @@
 
 <br><br>
 
-<a href="https://artabidkhori.com"><img src="https://img.shields.io/badge/PORTFOLIO-43ead3?style=for-the-badge&labelColor=071416&color=43ead3" alt="Portfolio" /></a>
-<a href="https://github.com/Jenesyx"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
-<a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/CONTACT-9b6cff?style=for-the-badge&logo=gmail&logoColor=dcfff7&labelColor=071416" alt="Email" /></a>
+<a href="https://github.com/amir90901"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
 
 <br>
 
-<sub><strong>AQUA LAUNCH</strong> · animated profile system · powered by live GitHub data</sub>
+<sub><strong>AMIR</strong> · AI &amp; Software Developer · building Jarvis and intelligent software systems</sub>
 
 </div>
 
 ---
 
-### Deploy this style
+### About
 
-Follow [SETUP.md](./SETUP.md) to replace the photo, animate your own name, connect your GitHub data, and enable automatic daily updates.
+I build AI-powered software, automation systems, and intelligent tools.
+
+Current focus: **Jarvis** and the engineering of practical intelligent software systems.
+
+### Stack
+
+Python · Artificial Intelligence · Automation · Software Architecture · GitHub
+
+### Profile system
+
+This profile uses the Aqua Launch animated GitHub profile system. The generated assets are updated from the repository configuration and public GitHub data.
+
+[Setup guide](./SETUP.md)
