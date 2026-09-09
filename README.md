@@ -1,39 +1,69 @@
 <div align="center">
 
-<img src="./assets/identity.svg" width="900" alt="Animated Aqua Launch identity with ASCII portrait and ASCII wordmark" />
+<img src="./assets/identity.svg" width="900" alt="AMIR AI and Software Developer profile identity" />
 
 <br><br>
 
-<img src="./assets/contributions.svg" width="900" alt="Animated contribution activity with moving spacecraft" />
+<img src="./assets/contributions.svg" width="900" alt="GitHub contribution activity" />
 
 <br><br>
 
-<img src="./assets/signal.svg" width="900" alt="Live GitHub profile signal and language stack" />
+<img src="./assets/signal.svg" width="900" alt="GitHub profile signal and technology stack" />
 
 <br><br>
 
-<a href="https://github.com/amir90901"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
+<a href="https://github.com/amir90901">
+  <img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" />
+</a>
 
-<br>
+<br><br>
 
-<sub><strong>AMIR</strong> · AI &amp; Software Developer · building Jarvis and intelligent software systems</sub>
+<sub><strong>AMIR</strong> · AI &amp; Software Developer · building intelligent systems</sub>
 
 </div>
 
 ---
 
-### About
+## About
 
-I build AI-powered software, automation systems, and intelligent tools.
+I build AI-powered software, automation systems, and practical intelligent tools.
 
-Current focus: **Jarvis** and the engineering of practical intelligent software systems.
+My current focus is the engineering of **Jarvis**, a personal AI assistant designed around modular architecture, memory, automation, and extensibility.
 
-### Stack
+I care about building systems that are not only intelligent, but also structured, maintainable, and useful in the real world.
 
-Python · Artificial Intelligence · Automation · Software Architecture · GitHub
+---
 
-### Profile system
+## Current Focus
 
-This profile uses the Aqua Launch animated GitHub profile system. The generated assets are updated from the repository configuration and public GitHub data.
+### JARVIS
 
-[Setup guide](./SETUP.md)
+**Personal AI Assistant**
+
+A long-term personal AI system focused on:
+
+- Modular architecture
+- Memory and context
+- Intelligent interaction
+- Automation
+- Plugin-based capabilities
+- Extensible system design
+- Local-first development
+- Future multi-platform expansion
+
+> Jarvis is currently under active private development.
+
+---
+
+## What I Build
+
+```text
+AI Systems
+    ↓
+Automation
+    ↓
+Software Architecture
+    ↓
+Intelligent Tools
+    ↓
+Business Systems
