@@ -1,11 +1,16 @@
 {
-  "username": "Jenesyx",
-  "name": "Arta Bidkhori",
-  "wordmark": "ARTA",
-  "role": "Full-stack developer · AI automation builder",
-  "location": "Germany · from Tehran",
-  "status": "Building products, agents and memorable digital experiences.",
-  "website": "https://artabidkhori.com",
+  "username": "amir90901",
+  "name": "Amir",
+  "wordmark": "AMIR",
+  "role": "AI & Software Developer",
+  "location": "Iran",
+  "status": "Building Jarvis and intelligent software systems.",
+  "website": "",
   "photo": "assets/profile-source.png",
-  "skills": ["Next.js", "TypeScript", "Python", "n8n", "Figma", "Solidity"]
+  "skills": [
+    "Python",
+    "AI",
+    "Automation",
+    "GitHub"
+  ]
 }
